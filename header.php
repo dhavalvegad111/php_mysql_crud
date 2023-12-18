@@ -5,8 +5,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">  
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/dataTables.bootstrap5.min.css">
         <link rel="stylesheet" href="./assets/style.css">
-
     </head>
     <body >
         <?php
@@ -26,7 +27,7 @@
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav">
-                          <li> <img src="./assets/images/ce.png" alt="CE" class="tlogo"> </li>
+                        <li><img src="./assets/images/ce.png" alt="CE" class="tlogo"></li>
                         <li class="active"><a href="index.php">Home</a></li>
                     </ul>
 
