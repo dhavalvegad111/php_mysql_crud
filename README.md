@@ -1,5 +1,3 @@
-# PHP-MySQL-CRUD
+# PHP_MySQL_CRUD
+Simple PHP MySQL CRUD Operation
 
-<b>Resource:</b> HTML, CSS,Bootstrap, PHP ,MySQL
-
-<a href="http://dev.techcanvas.org/php-mysql-crud-demo/" target="_blank" >Demo</a>
